@@ -1,0 +1,22 @@
+#img-about-us {
+	width: 100%;
+}
+.icons-container {
+	display: flex;
+	justify-content: space-evenly;
+	font-size: 2rem;
+	color: #1da1f2;
+}
+#chadImg {
+	object-fit: cover;
+	max-height: 294px;
+	/* background-image: url(/img/about_us/cofounderAlpha.jpg);
+	background-size: cover;
+	height: 294px; */
+}
+h2 {
+	font-weight: 200;
+}
+h2 span {
+	font-weight: 600;
+}

@@ -1,0 +1,16 @@
+/*****************************************************************
+
+    Ventas
+
+/*****************************************************************/
+#boton-filtro {
+	background-color: #ff8f00 !important;
+	border-color: #f18700 !important;
+}
+.car-container {
+	border-bottom: 1px #bbb solid;
+}
+.new-badge {
+	position: absolute;
+	margin: 0.5rem;
+}
